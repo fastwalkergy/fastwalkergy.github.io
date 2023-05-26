@@ -1,6 +1,6 @@
 // 将旧域名和新域名存入变量中
-var oldDomain = "旧域名";
-var newDomain = "新域名";
+var oldDomain = "https://fastwalkergy.github.io/";
+var newDomain = "https://fshd-studio.github.io/";
 
 // 获取当前页面的 URL
 var currentUrl = window.location.href;
